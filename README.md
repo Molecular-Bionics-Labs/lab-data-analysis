@@ -25,3 +25,4 @@ assumptions for normality and heteroscedasticity check
 normalization if done
 test performed
 power of the test
+p-value as is

@@ -7,7 +7,7 @@ Plot your data and make superficial guesses about its behavior
 Perform tests for normality and homogeneity of variances 
 Run a distribution fitting
 
-### 2. Data normalization
+### 2. Data pre-processing and normalization
 Once you know the distribution, make a data transformation
 Keep the transformation consistent within the same population/sample
 

@@ -16,7 +16,7 @@ Ensure your data satisfies assumptions
 Choose your test
 Make it done
 
-### 4. Modelling
+### 4. Modeling
 If you need a model to describe or plan the next experiment, choose the best question
 
 ### 5. Decision making

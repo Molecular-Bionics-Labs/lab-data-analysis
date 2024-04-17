@@ -1,8 +1,10 @@
 # Lab data analysis
 
-The repo provides guidance to the Experimental and Synthetic data analysis
+The repo provides guidance to the Experimental data analysis, some examples are illustrated with synthetic data
 
-### 1. Data exploration
+## Data analysis template
+
+### 1. Data exploration (EDA, exploratory data analysis)
 Plot your data and make superficial guesses about its behavior
 Perform tests for normality and homogeneity of variances 
 Run a distribution fitting
@@ -26,3 +28,19 @@ normalization if done
 test performed
 power of the test
 p-value as is
+
+## Nanoparticle characterization
+
+### 1. Image processing 
+Importing .lif files and processing as it's done in ImageJ and Fiji (not implemented to due a bug in ITK library, that's is needed to run the  ImageJ API)
+
+### 2. Human visual checkup
+Saving the masks and vusiall assesment
+
+### 3. Counting, size, intensity and EDA
+Saving the processing results in txt
+Exploratory data analysis
+
+### 4. Testing, comparison
+
+### 5. Results interpretation

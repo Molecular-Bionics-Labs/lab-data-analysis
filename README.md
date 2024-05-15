@@ -2,26 +2,33 @@
 
 The repo provides guidance to the Experimental data analysis, some examples are illustrated with synthetic data
 
-## Data analysis template
+## 1 Data exploration and hypotesis testing
 
-### 1. Data exploration (EDA, exploratory data analysis)
+### (Step 1) Data exploration (EDA, exploratory data analysis)
 Plot your data and make superficial guesses about its behavior
 Perform tests for normality and homogeneity of variances 
 Run a distribution fitting
 
-### 2. Data pre-processing and normalization
+### (Step 2) Data pre-processing and normalization
 Once you know the distribution, make a data transformation
 Keep the transformation consistent within the same population/sample
 
-### 3. Hypothesis testing
+### (Step 3) Hypothesis testing
 Ensure your data satisfies assumptions
 Choose your test
 Make it done
 
-### 4. Modeling
-If you need a model to describe or plan the next experiment, choose the best question
+### (Step 4) Modeling
+If you need a model to describe or plan the next experiment, 
+Split dataset into train and test, fit a model and estimate the results
 
-### 5. Decision making
+### (Step 5). Decision making
+
+#### Power analysis
+If stat tests fail to detect an effect, check the power of the test
+How large should be sample size to detect an effect that might be present
+
+#### Summary
 Report your results, mentioning:
 assumptions for normality and heteroscedasticity check
 normalization if done

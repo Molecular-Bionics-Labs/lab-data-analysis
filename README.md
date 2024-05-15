@@ -10,9 +10,7 @@ The repo provides guidance to the Experimental data analysis, some examples are 
 [MB_Data_analysis_template.ipynb](https://github.com/Molecular-Bionics-Labs/lab-data-analysis/blob/main/01%20Data%20exploration%20and%20hypotesis%20testing/MB_Data_analysis_template.ipynb)
 
 Plot your data and make superficial guesses about its behavior
-
 Perform tests for normality and homogeneity of variances 
-
 Run a distribution fitting
 
 ### 2. Data pre-processing and normalization

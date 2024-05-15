@@ -6,28 +6,32 @@ The repo provides guidance to the Experimental data analysis, some examples are 
 
 ## Data analysis workflow
 
-### (Step 1) 
-### Data exploration (EDA, exploratory data analysis)
+### 1. Data exploration (EDA, exploratory data analysis) 
+[MB_Data_analysis_template.ipynb]
 Plot your data and make superficial guesses about its behavior
 Perform tests for normality and homogeneity of variances 
 Run a distribution fitting
 
-### (Step 2) Data pre-processing and normalization
+### 2. Data pre-processing and normalization
+[MB_Data_analysis_template.ipynb]
 Once you know the distribution, make a data transformation
 Keep the transformation consistent within the same population/sample
 
-### (Step 3) Hypothesis testing
+### 3. Hypothesis testing
+[MB_Data_analysis_template.ipynb]
 Ensure your data satisfies assumptions
 Choose your test
 Make it done
 
-### (Step 4) Modeling
+### 4. Modeling
+[MB_Data_analysis_template_MODEL.ipynb]
 If you need a model to describe or plan the next experiment, 
 Split dataset into train and test, fit a model and estimate the results
 
-### (Step 5) Decision making
+### 5. Decision making
 
 #### Power analysis
+[MB_Data_analysis_template.ipynb]
 If stat tests fail to detect an effect, check the power of the test
 How large should be sample size to detect an effect that might be present
 

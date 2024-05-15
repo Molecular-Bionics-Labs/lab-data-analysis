@@ -2,6 +2,8 @@
 
 The repo provides guidance to the Experimental data analysis, some examples are illustrated with synthetic data
 
+<img width="989" alt="image" src="https://github.com/Molecular-Bionics-Labs/lab-data-analysis/assets/80680465/cfda36e6-e879-4a52-8e49-dea93a2c13f8">
+
 ## 1 Data exploration and hypotesis testing
 
 ### (Step 1) Data exploration (EDA, exploratory data analysis)

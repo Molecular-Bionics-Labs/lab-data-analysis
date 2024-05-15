@@ -4,9 +4,10 @@ The repo provides guidance to the Experimental data analysis, some examples are 
 
 <img width="989" alt="image" src="https://github.com/Molecular-Bionics-Labs/lab-data-analysis/assets/80680465/cfda36e6-e879-4a52-8e49-dea93a2c13f8">
 
-## 1 Data exploration and hypotesis testing
+## Data analysis workflow
 
-### (Step 1) Data exploration (EDA, exploratory data analysis)
+### (Step 1) 
+### Data exploration (EDA, exploratory data analysis)
 Plot your data and make superficial guesses about its behavior
 Perform tests for normality and homogeneity of variances 
 Run a distribution fitting
@@ -24,7 +25,7 @@ Make it done
 If you need a model to describe or plan the next experiment, 
 Split dataset into train and test, fit a model and estimate the results
 
-### (Step 5). Decision making
+### (Step 5) Decision making
 
 #### Power analysis
 If stat tests fail to detect an effect, check the power of the test
@@ -37,6 +38,7 @@ normalization if done
 test performed
 power of the test
 p-value as is
+
 
 ## Nanoparticle characterization
 
